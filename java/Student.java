@@ -9,6 +9,6 @@ this.name=name;
 }
 void display()
 {
-System.out.println("ROLL :"+rollNo
+System.out.println("ROLL :"+rollNo,student
 }
 }
