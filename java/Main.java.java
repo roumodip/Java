@@ -28,5 +28,3 @@ System.out.println(n+" is not a prime number");
 }
 }
 }
-
-
